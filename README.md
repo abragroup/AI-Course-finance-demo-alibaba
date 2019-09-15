@@ -1,1 +1,1 @@
-# f-inance-demo-alibaba
+# AI-Course-Finance-demo-alibaba
